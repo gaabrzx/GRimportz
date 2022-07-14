@@ -21,3 +21,13 @@
 a {
   color: black;
 }
+
+.itens {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 10px;
+  font-weight: 400;
+}
