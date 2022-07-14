@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: bisque;
+}
+
+.container i {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  margin: 30px;
+}
